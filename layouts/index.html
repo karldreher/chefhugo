@@ -9,7 +9,7 @@
 <h1>{{ $homepage }}</h1>
 
 {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{ range $pages }}
+{{ range $pages.ByTitle }}
   <p>
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
     {{ $customDateFormat := "January 2, 2006" }}
