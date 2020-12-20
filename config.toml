@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://mango-island-0b18f041e.azurestaticapps.net/"
 languageCode = "en-us"
 title = "Chef Hugo"
 theme = "minimal-bootstrap-hugo-theme"
@@ -10,7 +10,7 @@ theme = "minimal-bootstrap-hugo-theme"
   post = "/:filename/"
 
 [params]
-  description = "Some description"
+  description = "chefhugo - a collection of recipes"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
