@@ -1,7 +1,7 @@
 ---
 title: "Vegan Mac and Cheese"
 date: 2020-12-19T15:27:58-07:00
-draft: true
+draft: false
 tags: ["dinner","vegan"]
 ---
 
