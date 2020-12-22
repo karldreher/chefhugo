@@ -2,7 +2,8 @@
 title: "Korean Beef"
 date: 2020-12-19T14:59:11-07:00
 draft: false
-tags: ["dinner","asian"]
+tags: ["asian"]
+categories: ["Dinner"]
 ---
 
 #### Ingredients

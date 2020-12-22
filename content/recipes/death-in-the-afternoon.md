@@ -2,7 +2,8 @@
 title: "Death in the Afternoon"
 date: 2020-12-19T15:24:06-07:00
 draft: false
-tags: ["booze"]
+tags: ["cocktail"]
+categories: ["Booze"]
 ---
 
 #### Ingredients
