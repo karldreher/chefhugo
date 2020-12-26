@@ -1,7 +1,7 @@
 ---
 title: "Gluten Free Molten Lava Chocolate Cake"
 date: 2020-12-25T19:22:45-07:00
-draft: true
+draft: false
 tags: ["chocolate"]
 categories: ["Dessert"]
 ---
