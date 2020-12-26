@@ -25,4 +25,6 @@ Drain bacon grease from skillet and return about 1/2 tablespoon of the grease to
 
 Cover pan and cook 3 minutes.  Toss with bacon before serving.  
 
+
 This goes great served on top of [Coconut Rice](/recipes/coconut-rice).
+
