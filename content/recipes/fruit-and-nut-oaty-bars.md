@@ -1,7 +1,7 @@
 ---
 title: "Fruit and Nut Oaty Bars"
 date: 2021-01-08T17:38:53-07:00
-draft: true
+draft: false
 tags: ["oats"]
 categories: ["Snacks"]
 ---

@@ -5,3 +5,6 @@ Chef Hugo is a static website generated with [Hugo](https://gohugo.io/) which al
 This website is currently deployed to:
 
 https://mango-island-0b18f041e.azurestaticapps.net/
+
+## Adding new recipes  
+`hugo new recipes/name-of-recipe.md`
