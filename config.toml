@@ -1,4 +1,4 @@
-baseURL = "https://mango-island-0b18f041e.azurestaticapps.net/"
+baseURL = "https://chefhugo.pages.dev"
 languageCode = "en-us"
 title = "Chef Hugo"
 theme = "minimal-bootstrap-hugo-theme"
